@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2012\Projects\ModernMedical\ModernMedical\bin\Debug\ModernMedical.exe.config
+\\psf\home\documents\visual studio 2012\Projects\ModernMedical\ModernMedical\bin\Debug\ModernMedical.exe
+\\psf\home\documents\visual studio 2012\Projects\ModernMedical\ModernMedical\bin\Debug\ModernMedical.pdb
+\\psf\home\documents\visual studio 2012\Projects\ModernMedical\ModernMedical\obj\Debug\ModernMedical.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\ModernMedical\ModernMedical\obj\Debug\ModernMedical.exe
+\\psf\home\documents\visual studio 2012\Projects\ModernMedical\ModernMedical\obj\Debug\ModernMedical.pdb
